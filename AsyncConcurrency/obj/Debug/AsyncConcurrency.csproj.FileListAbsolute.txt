@@ -1,0 +1,15 @@
+D:\dev\.net\AsyncConcurrency\AsyncConcurrency\obj\Debug\AsyncConcurrency.csproj.AssemblyReference.cache
+D:\dev\.net\AsyncConcurrency\AsyncConcurrency\obj\Debug\App.g.cs
+D:\dev\.net\AsyncConcurrency\AsyncConcurrency\obj\Debug\AsyncConcurrency_MarkupCompile.cache
+D:\dev\.net\AsyncConcurrency\AsyncConcurrency\bin\Debug\AsyncConcurrency.exe.config
+D:\dev\.net\AsyncConcurrency\AsyncConcurrency\bin\Debug\AsyncConcurrency.exe
+D:\dev\.net\AsyncConcurrency\AsyncConcurrency\bin\Debug\AsyncConcurrency.pdb
+D:\dev\.net\AsyncConcurrency\AsyncConcurrency\obj\Debug\MainWindow.g.cs
+D:\dev\.net\AsyncConcurrency\AsyncConcurrency\obj\Debug\AsyncConcurrency_MarkupCompile.lref
+D:\dev\.net\AsyncConcurrency\AsyncConcurrency\obj\Debug\MainWindow.baml
+D:\dev\.net\AsyncConcurrency\AsyncConcurrency\obj\Debug\AsyncConcurrency.g.resources
+D:\dev\.net\AsyncConcurrency\AsyncConcurrency\obj\Debug\AsyncConcurrency.Properties.Resources.resources
+D:\dev\.net\AsyncConcurrency\AsyncConcurrency\obj\Debug\AsyncConcurrency.csproj.GenerateResource.cache
+D:\dev\.net\AsyncConcurrency\AsyncConcurrency\obj\Debug\AsyncConcurrency.csproj.CoreCompileInputs.cache
+D:\dev\.net\AsyncConcurrency\AsyncConcurrency\obj\Debug\AsyncConcurrency.exe
+D:\dev\.net\AsyncConcurrency\AsyncConcurrency\obj\Debug\AsyncConcurrency.pdb
