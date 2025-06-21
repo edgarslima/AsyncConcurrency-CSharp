@@ -1,0 +1,10 @@
+# Ignore Visual Studio files and build outputs
+.vs/
+*.user
+*.suo
+bin/
+obj/
+# Generated files
+*.cache
+*.pdb
+
